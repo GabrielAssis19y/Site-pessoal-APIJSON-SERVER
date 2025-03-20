@@ -39,6 +39,7 @@ Abra o arquivo index.html no navegador.
 
 📁 Site-pessoal-APIJSON-SERVER
 ├── 📄 index.html
+
 ├── 📄 style.css
 ├── 📄 script.js
 ├── 📄 db.json  (dados simulados com JSON Server)
